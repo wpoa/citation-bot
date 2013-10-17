@@ -1,6 +1,6 @@
 # DOI bot
 
-This branch of the "Citation Bot" or "DOI Bot" is deployed on Wikimedia Labs, [see it here](http://tools.wmflabs.org/doi-bot/). The code repository is available [here](https://github.com/wrought/citation-bot/tree/labs). 
+This branch of the "Citation Bot" or "DOI Bot" is deployed on Wikimedia Labs, [see it here](http://tools.wmflabs.org/doi-bot/). The code repository is available [here](https://github.com/wrought/citation-bot/tree/labs). The tool previously lived on the [toolserver](https://toolserver.org/~verisimilus/Bot/DOI_bot/).
 
 ## Purpose
 
